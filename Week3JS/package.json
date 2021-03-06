@@ -1,0 +1,21 @@
+{
+  "name": "Week3JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./exercises/exercise3.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "performance-now": "^2.1.0",
+    "ts-node": "^9.1.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.8"
+  }
+}
